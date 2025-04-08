@@ -1,0 +1,19 @@
+Hindi HMM Results
+-----------------
+
+Micro-average metrics:
+  Precision: 0.7523
+  Recall: 0.7523
+  F1: 0.7523
+
+Macro-average metrics:
+  Precision: 0.6697
+  Recall: 0.7715
+  F1: 0.6500
+
+Weighted-average metrics:
+  Precision: 0.8560
+  Recall: 0.7523
+  F1: 0.7674
+
+Accuracy: 0.7523

@@ -1,0 +1,19 @@
+English CRF Results
+-------------------
+
+Micro-average metrics:
+  Precision: 0.9024
+  Recall: 0.9024
+  F1: 0.9024
+
+Macro-average metrics:
+  Precision: 0.8358
+  Recall: 0.8665
+  F1: 0.8255
+
+Weighted-average metrics:
+  Precision: 0.9243
+  Recall: 0.9024
+  F1: 0.9064
+
+Accuracy: 0.9024

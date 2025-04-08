@@ -1,0 +1,19 @@
+English HMM Results
+-------------------
+
+Micro-average metrics:
+  Precision: 0.8452
+  Recall: 0.8452
+  F1: 0.8452
+
+Macro-average metrics:
+  Precision: 0.7203
+  Recall: 0.8022
+  F1: 0.7358
+
+Weighted-average metrics:
+  Precision: 0.8663
+  Recall: 0.8452
+  F1: 0.8499
+
+Accuracy: 0.8452

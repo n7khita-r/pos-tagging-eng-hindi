@@ -1,0 +1,19 @@
+Hindi CRF Results
+-----------------
+
+Micro-average metrics:
+  Precision: 0.8386
+  Recall: 0.8386
+  F1: 0.8386
+
+Macro-average metrics:
+  Precision: 0.7403
+  Recall: 0.8571
+  F1: 0.7411
+
+Weighted-average metrics:
+  Precision: 0.8922
+  Recall: 0.8386
+  F1: 0.8533
+
+Accuracy: 0.8386
