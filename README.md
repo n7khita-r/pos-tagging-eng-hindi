@@ -3,6 +3,7 @@
 This is an implementation of HMMs, CRFs, LSTMs and BiLSTMs for POS-tagging done as part of a course assignment. It is a study of
 how effective the above models are in POS-tagging for Hindi and English.
 It consists of all 4 models, training data (from https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-5787), manually annotated testing data, and results along with confusion matrices.
+LSTM and BiLSTM implementations are a Work In Progress.
 
 ================================== IMPLEMENTATION ==============================================
 
